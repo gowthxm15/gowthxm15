@@ -20,6 +20,7 @@ I’m a software engineer focused on building **clean backend systems**, **intel
 ### Currently
 
 * Strengthening backend + AI depth
+* Leading AI development for an early-stage startup, working toward OpenAI and Microsoft grants.
 * Building real-world projects
 * Preparing for strong product engineering roles
 
