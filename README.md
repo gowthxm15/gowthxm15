@@ -1,16 +1,31 @@
-## Hi there 👋
+# Hi, I'm Gowtham 👋
 
-<!--
-**gowthxm15/gowthxm15** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Systems. Intelligence. Code.**
 
-Here are some ideas to get you started:
+I’m a software engineer focused on building **clean backend systems**, **intelligent AI-powered products**, and reliable full-stack applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### What I work with
+
+* **Python** (core language)
+* **Backend**: APIs, databases, system design
+* **Frontend**: building functional, clean UIs when needed
+* **AI**: GenAI workflows, applied machine learning
+
+### How I think
+
+* I value **clarity over complexity**
+* I learn by **building real products**
+* I care about systems that **scale and last**
+
+### Currently
+
+* Strengthening backend + AI depth
+* Building real-world projects
+* Preparing for strong product engineering roles
+
+📫 **Reach me**: [LinkedIn](https://www.linkedin.com/in/gowtham-k15) | [Email](mailto:gowthamk150704@gmail.com)
+
+---
+
+*Curious. Consistent. Relentless.*
+
